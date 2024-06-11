@@ -1,0 +1,46 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My First HTML Page</title>
+
+  
+</head>
+<style>
+
+nav
+{ background-color:orange;
+padding:3px;
+}
+</style>
+<body>
+<body background="c.jpg"></body>
+  <header>
+    <center><h1>Welcome to My Website</h1>
+    <nav>
+      <ul>
+<i><a href="#">Home</a>|
+        <a href="file:///C:/Users/HP/OneDrive/Desktop/CSS3/REGISTRATION.HTML">Registration</a>|
+        <a href="#">About</a>|
+        <a href="file:///C:/Users/HP/OneDrive/Desktop/CSS3/contactus.HTML">Contact</a>|
+        <a href="file:///C:/Users/HP/OneDrive/Desktop/CSS3/LOGIN%20PAGE.HTML">Login form</a>|
+<a href="#">portfolio</a>|
+      </ul>
+    </nav>
+  </header>
+
+  <section>
+    <br>
+    <p>This is a simple website to demonstrate HTML and CSS.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 My Incresol. All rights reserved.</p>
+  </footer></i>
+</body></center>
+</html>
+
+
